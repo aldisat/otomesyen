@@ -1,8 +1,10 @@
 # otomesyen
 
-## crawler.sh
+## krawler.sh
 ### syarat dan ketentuan
-- gau
-- hakrawler
-- waybackurl
-- httpx
+- tools yang dibutuhkan 
+  - gau
+  - hakrawler
+  - waybackurl
+  - httpx
+- copy-kan script ke `.bashrc` dan `source .bashrc`
