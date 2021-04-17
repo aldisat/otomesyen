@@ -1,10 +1,13 @@
 # OTOMESYEN
 
 ## krawler.sh
-### syarat dan ketentuan
-- tools yang dibutuhkan 
-  - gau
-  - hakrawler
-  - waybackurl
-  - httpx
-- copy-kan script ke `.bashrc` dan `source .bashrc`
+Crawling path subdomain. Prasyarat:
+- gau
+- hakrawler
+- waybackurl
+- httpx
+
+## ceknx.sh
+cek NXDOMAIN. Prasyarat:
+- dig
+
