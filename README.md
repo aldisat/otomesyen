@@ -1,4 +1,4 @@
-# otomesyen
+# OTOMESYEN
 
 ## krawler.sh
 ### syarat dan ketentuan
