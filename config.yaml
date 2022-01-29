@@ -1,0 +1,110 @@
+resolvers:
+    - 1.1.1.1
+    - 1.0.0.1
+    - 8.8.8.8
+    - 8.8.4.4
+    - 9.9.9.9
+    - 9.9.9.10
+    - 77.88.8.8
+    - 77.88.8.1
+    - 208.67.222.222
+    - 208.67.220.220
+sources:
+    - alienvault
+    - anubis
+    - bufferover
+    - certspotter
+    - censys
+    - chaos
+    - crtsh
+    - dnsdumpster
+    - hackertarget
+    - intelx
+    - passivetotal
+    - robtex
+    - riddler
+    - securitytrails
+    - shodan
+    - spyse
+    - sublist3r
+    - threatcrowd
+    - threatminer
+    - virustotal
+all-sources:
+    - alienvault
+    - anubis
+    - archiveis
+    - binaryedge
+    - bufferover
+    - censys
+    - certspotter
+    - chaos
+    - commoncrawl
+    - crtsh
+    - dnsdumpster
+    - dnsdb
+    - github
+    - hackertarget
+    - intelx
+    - passivetotal
+    - rapiddns
+    - riddler
+    - recon
+    - robtex
+    - securitytrails
+    - shodan
+    - sitedossier
+    - sonarsearch
+    - spyse
+    - sublist3r
+    - threatbook
+    - threatcrowd
+    - threatminer
+    - virustotal
+    - waybackarchive
+    - zoomeye
+recursive:
+    - alienvault
+    - binaryedge
+    - bufferover
+    - certspotter
+    - crtsh
+    - dnsdumpster
+    - hackertarget
+    - passivetotal
+    - securitytrails
+    - sonarsearch
+    - sublist3r
+    - virustotal
+binaryedge:
+    - ca2e94b4-2b93-43b7-be12-9ad8ba6d31a7
+censys:
+    - 7aec4000-e476-4e89-93c8-2298da95f68d:gv0N9XJuSYbcTCTSO0tcvci4uwofzycp
+certspotter:
+    - 34806_rBoKhdzRHqGGHoQEDqdf
+chaos: []
+dnsdb:
+    - dce-5e60193b6f3f3da589bf9023c9cf3ca473241c1b7adbc78ef2c71e15bcdd
+github:
+    - 891ce85271e59f0997a3bf30f1d9a09b92c68c9b
+intelx:
+    - 9f5772b6-f442-49b4-8cce-6adf07e4220f
+passivetotal:
+    - d6864fcf7ff7c83418eb166430abbe54cb8bc2562b60cbae5921faf72590348e
+recon: []
+robtex:
+    - 6YV3j1nVXibUhuPnKR3l
+securitytrails:
+    - bUdYVb6thnbTCo5bt7kn3UXkYpXb3Oup
+shodan:
+    - ZXRHtSZJhfqfIM6zgPjM1J9OBoFCCPUO
+spyse:
+    - 9e625fd9-5019-4435-a96a-d2de062bbd03
+threatbook: []
+urlscan:
+    - 42218446-e861-4103-8758-91d578536440
+virustotal:
+    - 41607c8b5021d684b75d735c71490e4864229651832fc680f9f903ce7a51da27
+zoomeye:
+    - 4ADE213E-28E0-4BEFF-E489-C5a7987e43b
+subfinder-version: 2.4.8
